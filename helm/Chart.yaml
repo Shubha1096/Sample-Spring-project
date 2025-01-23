@@ -1,0 +1,4 @@
+apiVersion: v2
+name: webservices
+description: Helm chart for deploying Webservices
+version: 1.0.0
